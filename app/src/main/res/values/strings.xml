@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">语音识别系统</string>
+
+    <string name="tts_label">语音合成</string>
+    <string name="hint_type_text">请输入文字（最大60字）</string>
+    <string name="stop">停止</string>
+    <string name="play">播放</string>
+
+    <string name="asr_label">语音识别</string>
+    <string name="start">开始</string>
+    <string name="result">识别结果</string>
+
 </resources>
